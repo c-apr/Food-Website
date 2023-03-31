@@ -1,0 +1,15 @@
+12 pro---390px
+SE---375px
+XR--414px
+Pixel 5--393px
+S8+ --360px
+S20 ultra ---412px
+
+
+Ipad Air---820px
+     Mini---768px
+Surface pro 7--912px
+        Duo ---540px
+Fold -----280px
+Nest Hub ---1024px
+Nest Hub Max ---1280px
